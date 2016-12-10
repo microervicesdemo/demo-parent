@@ -1,1 +1,1 @@
-# demo-parent
+# poc-parent
