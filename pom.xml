@@ -12,12 +12,12 @@
 		<version>Angel.SR3</version>
 	</parent>
 	
-	<modules>
-		<module>../poc-account</module>
-		<module>../poc-discovery</module>
-		<module>../poc-web</module>
-		<module>../poc-product</module>
-	</modules>
+	 <modules>
+		<module>../demo-account-service</module>
+		<module>../demo-discovery-service</module>
+		<module>../demo-web</module>
+		<module>../demo-product-service</module>
+	</modules> 
 
 	<dependencies>
 		<dependency>
